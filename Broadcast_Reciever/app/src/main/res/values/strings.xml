@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Broadcast_Reciever</string>
+    <string name="btn">Add</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment2</string>
+    <string name="hello_blank_fragment1">Fragment1</string>
+</resources>
